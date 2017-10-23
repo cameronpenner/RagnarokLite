@@ -1,0 +1,5 @@
+libffi-dev
+libopus-dev
+libav-tools
+ia32-libs
+libgl1-mesa-glx
